@@ -32,4 +32,4 @@ Tags: life
 
 END
 
-4. Press sync with Anki open and it will turn these cards to flashcards.4) Press sync with Anki open and it will turn these cards to flashcards.4) Press sync with Anki open and it will turn these cards to flashcards.4) Press sync with Anki open and it will turn these cards to flashcards.
+4. Press sync with Anki open and it will turn these cards to flashcards.
